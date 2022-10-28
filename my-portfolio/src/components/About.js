@@ -13,7 +13,7 @@ function About() {
                 Hello! My name is Mitch Marena. I am currently a Transportation Analyst at Amazon, as well as a student
                 at the University of Texas Coding Bootcamp.
 
-                {/* a little about my past  */}
+                {/* a little about my current work  */}
             </p>
             <p className="content">
                 Born and raised in Wethersfield, Connecticut, I attended
